@@ -1,147 +1,112 @@
-# Welcome to StackEdit!
+# Indicador de OP. 1.1. Disponibilidad y calidad del recurso hídrico. | PIRS
+1.  [METAS DEL PROGRAMA](https://somos-rio-lempa.gitbook.io/pirs/metas-del-programa)
+3.  [OP.1. Servicios Ecosistémicos](https://somos-rio-lempa.gitbook.io/pirs/metas-del-programa/g1.-servicios-ecosistemicos)
 
-# Hola Maritza
-## Hola Susana
-> Hola mundo
+Indicador de OP. 1.1. Disponibilidad y calidad del recurso hídrico.
+-------------------------------------------------------------------
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+GOAL 1
 
+**Disponibilidad y calidad del recurso hídrico**. Disponibilidad y calidad del agua en puntos críticos de toda la cuenca, incluyendo áreas prioritarias del río, y estuarios, fuentes de agua utilizadas para el abastecimiento doméstico (aguas superficiales y subterráneas).
 
-# Files
+Este indicador mide el impacto de las actividades de restauración forestal en la calidad del agua en áreas críticas de la cuenca, incluyendo ríos, estuarios y fuentes de agua utilizadas para el abastecimiento doméstico. La calidad del agua para consumo doméstico se evaluará utilizando el Índice de Calidad del Agua (ICA), que considera parámetros como pH, turbidez, oxígeno disuelto, nitratos, fosfatos, y presencia de contaminantes.
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Indicador relacionado con el SO 1.1. Cobertura Forestal; sin embargo, el reporte de hectáreas restauradas será a partir del resultado de las áreas identificadas en Línea de Base en condición de relevancia de restauración para la cuenca.
 
-## Create files and folders
+**Desagregación:** Desglosar los datos por territorios de la cuenca, subcuencas, microcuencas, zonas urbanas y zonas rurales.
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Para la medición de este indicador se utilizarán las variables:
 
-## Switch to another file
+*   **Abastecimiento doméstico:** provisión de agua segura y de calidad para el consumo humano necesidades esenciales en los hogares, como beber, cocinar, higiene personal y limpieza (ODS).
+    
+*   (LGRH) Uso del agua para fines particulares y del hogar, riego de jardines y huertos caseros, así como abrevaderos de animales domésticos que no constituya una actividad comercial. Se entenderá que este uso se destina a personas que no tienen acceso a sistemas públicos de distribución de agua potable y no comercializan dicho recurso.
+    
+*   **Áreas prioritarias**: zonas específicas dentro de la cuenca hidrográfica con importancia clave para la conservación, el manejo sostenible y la gestión del agua. Definidas con base a criterios ecológicos, hidrológicos, socioeconómicos o de vulnerabilidad ambiental.
+    
+*   **Calidad del agua:** son las características fisicoquímicas y biológicas que presentan las aguas superficiales y subterráneas en determinado punto geográfico, en un momento específico y para un uso determinado (LGRH).
+    
+*   **Fuentes de agua:** es el desvío del ciclo natural de manantial, rio, quebrada, arroyo u otros para ser utilizad por las personas, pueden ser de carácter permanente o no permanente, puede ser subterráneo o superficial.
+    
+*   **Mejora de calidad del agua:** se considerará la mejora con base a los resultados del Índice de Calidad del Agua (ICA), que considera parámetros como pH, turbidez, oxígeno disuelto, nitratos, fosfatos, y presencia de contaminantes.
+    
+*   **Puntos críticos/Zonas hidrológicas críticas (CHZ):** área clave para la regulación y conservación del agua de la cuenca hidrográfica (humedales, zonas de recarga de acuíferos, ríos, lagos y áreas de captación de agua). Se consideran críticas por sus funciones: filtración y almacenamiento de agua; Prevención de inundaciones y sequías; Mantenimiento de la biodiversidad acuática y terrestre; Regulación del clima local y global. Los puntos críticos y de cuencas comprenden aspectos físicos, económicos, socioculturales, tecnológicos, políticos, institucionales y ambientales
+    
+*   **Restauración Forestal:** proceso de ayudar a la recuperación de un área con árboles, puede referirse a bosques o toda vegetación arbórea que posee altura de más de 5 metros.
+    
+*   **Provisión:** comprenderemos a todos los bienes materiales y productos tangibles que los ecosistemas naturales generan y que los seres humanos usamos directa o indirectamente para satisfacer necesidades básicas y actividades económicas.
+    
+*   **Regulación:** se refiere al conjunto de funciones y procesos ecológicos mediante los cuales los ecosistemas modulan y estabilizan condiciones ambientales que afectan directa o indirectamente el bienestar humano. Estos servicios operan de manera continua y muchas veces imperceptible, proporcionando beneficios indirectos que son fundamentales para el mantenimiento de la calidad del aire, el agua, los suelos, el clima y la salud de los ecosistemas y las poblaciones humanas. Entre estos servicios se incluyen la regulación del clima (a través del secuestro de carbono), el control de la erosión, la infiltración y almacenamiento de agua, la mitigación de inundaciones, y la regulación biológica de plagas y enfermedades a través de interacciones tróficas naturales.
+    
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Número de hectáreas forestales restauradas
 
-## Rename a file
+Índice de calidad del agua: Excelente, Buena, Regular, Mala, Pésima
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+Parámetros/ intervalos por territorio según LB
 
-## Delete a file
+Apegado al Protocolo de medición xxxxx
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Tentativamente, todos los CHZ alcanzarán el 90% al final del programa.
 
-## Export a file
+Por determinar después de la línea de base. Tentativamente, todos los puntos críticos de agua tendrán una calificación de Bueno o Excelente al final del programa.
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+**Métodos de Línea Base**
 
+**Datos Primarios**
 
-# Synchronization
+**Recolección de datos:**
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+*   **Muestreo in situ:** Muestreos de agua en los puntos críticos de la cuenca, incluyendo ríos, estuarios y fuentes de agua para abastecimiento doméstico.
+    
+*   **Análisis de laboratorio**: Medir en laboratorio los parámetros físicos, químicos y biológicos del agua (pH, oxígeno disuelto, turbidez, nutrientes, coliformes fecales, etc.).
+    
+*   Evaluación del Índice de Calidad de Agua Actual. Calcular el ICA utilizando un índice estandarizado (Metodología WQI)
+    
+*   **Sensores remotos**: Instalación de sensores en puntos estratégicos de la cuenca para monitoreo en tiempo real.
+    
+*   **Bioindicadores**: registro de macroinvertebrados acuáticos para evaluar la calidad ecológica del agua.
+    
 
-There are two types of synchronization and they can complement each other:
+**Fuente de los Datos:** Recolección de datos propia, en coordinación con ASA.
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+**Responsable:** Equipo SMP- PMT, en coordinación con ASA.
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+**Datos Secundarios**
 
-## Open a file
+**Recolección de datos:** Revisión documental, datos históricos, analisis de estudios previos, informes gubernamentales, y datos de monitoreo ambiental existentes.
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+**Fuente de los datos:** SIHI MARN, SIHI ASA
 
-## Save a file
+**Responsable:** MRL/ASA
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+**Metodologías de Monitoreo**
 
-## Synchronize a file
+**Datos Primarios**
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+**Recolección de datos:**
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+*   Monitoreo regular del ICA: Establecer una red de monitoreo con puntos de muestreo fijos en áreas prioritarias.
+    
+*   Realizar muestreos periódicos (definir periodicidad) para medir los mismos parámetros que en la línea base.
+    
+*   Calcular el ICA y comparar los resultados con la línea base para evaluar el progreso.
+    
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+**Fuente de los Datos:** SIHI ASA/SIHI MARN
 
-## Manage file synchronization
+**Responsable:** Equipo ASA y equipo SMP- PMT
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+**Frecuencia:** Semestral/Anual
 
+**Datos Secundarios para el monitoreo**
 
-# Publication
+**Recolección de datos:**
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+*   Otros programas en la cuenca del Río Lempa: Además de los datos recolectados por la red de monitoreo, se complementará con datos de monitoreo de otros programas en la cuenca del Río Lempa.
+    
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+**Fuente de los Datos:** Datos recolectados georreferenciados, en formato digital.
 
-## Publish a File
+**Responsable**: Equipo SMP (Sistema de Monitoreo del Programa)- PMT
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+**Frecuencia:** semestral/ anual
